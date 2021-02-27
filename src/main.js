@@ -1,5 +1,4 @@
 import 'highlight.js/styles/github.css'
-import './theme/typora-vue-theme/vue.css'
 import marked from 'marked'
 import docConfig from '../docz.config'
 
